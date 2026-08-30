@@ -22,7 +22,7 @@ The main purpose of this project is to provide an efficient alternative to manua
 
 ## ✨ Features
 
-### 👨‍🎓 Student Management
+###  Student Management
 
 -  Add new students
 -  View all registered students
@@ -31,7 +31,7 @@ The main purpose of this project is to provide an efficient alternative to manua
 -  Delete student records
 -  Delete student records when required
 
-### 🔎 Search
+###  Search
 
 Students can be searched using:
 
@@ -39,7 +39,7 @@ Students can be searched using:
 - Email address
 - Phone number
 
-### 🎨 User Interface
+###  User Interface
 
 - Modern Material 3 design
 - Clean and simple interface
@@ -51,7 +51,7 @@ Students can be searched using:
 
 ---
 
-## 📋 Student Information
+##  Student Information
 
 Each student record contains the following information:
 
