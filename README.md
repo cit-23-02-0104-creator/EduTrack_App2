@@ -1,8 +1,4 @@
-# 🎓 EduTrack - Student Management System
-
-<p align="center">
-  <strong>A Modern Student Management Application</strong>
-</p>
+# 🎓 EduTrack - Student Management Appication
 
 <p align="center">
   Manage student records easily, quickly, and efficiently.
